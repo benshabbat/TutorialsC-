@@ -15,5 +15,7 @@ Console.WriteLine(fullName.Replace(firstName,"DavidChen"));
 Console.WriteLine(fullName);
 Console.WriteLine(fullName.Replace("David","DavidChen"));
 Console.WriteLine(fullName);
+fullName = fullName.Replace(firstName,"DavidChen");
+Console.WriteLine(fullName);
 
 
