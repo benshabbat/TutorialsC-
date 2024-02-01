@@ -18,4 +18,6 @@ Console.WriteLine(fullName);
 fullName = fullName.Replace(firstName,"DavidChen");
 Console.WriteLine(fullName);
 
+//Ex Contains
+Console.WriteLine(fullName.Contains("David"));
 
